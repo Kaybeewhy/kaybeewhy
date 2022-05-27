@@ -1,0 +1,36 @@
+body{
+    background-color:antiquewhite;
+}
+
+
+
+.top{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 50px;
+    
+}
+
+.mid{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+   
+}
+
+.text{
+    color: white;
+   
+}
+
+.bak{
+    background-color: antiquewhite;
+    height: 40px;
+    width: 100%;
+}
+
+.bak2{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+}
